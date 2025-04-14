@@ -1,4 +1,5 @@
 # Comparative-Analysis-of-Neural-Network-Architectures-Using-TensorFlow
+[Comparative Analysis of Neural Network Architectures Using TensorFlow.pdf](https://github.com/user-attachments/files/19738625/Comparative.Analysis.of.Neural.Network.Architectures.Using.TensorFlow.pdf)
 
  Introduction
 
